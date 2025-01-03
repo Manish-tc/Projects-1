@@ -1,2 +1,4 @@
-# Projects-1
-projects of frontend (tic-Tac-Toe)
+# Tic-Tac-Toe
+built a Game on frontend 
+<br>
+Author: Manish Gusain
